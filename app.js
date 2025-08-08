@@ -17,7 +17,7 @@ if (nombresDeAmigos === "") {
 }
 
 misAmigos.push(agregarAmigo);
-actualizarAmigos();
+agregarAmigo();
 document.getElementById('amigo').value = "";
 
 }
