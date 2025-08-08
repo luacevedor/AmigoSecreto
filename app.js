@@ -4,8 +4,6 @@
 
 let ListaDeAmigos = [];
 
-let MisAmigos = ["Ana", "Juan", "Luz", "Aelyn"];
+let MisAmigos = ["Ana", "Juan", "Luz", "Aelyn", "Teresa"];
 
 console.log (MisAmigos);
-
-
