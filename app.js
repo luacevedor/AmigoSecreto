@@ -7,3 +7,7 @@ let misAmigos = [];
 console.log (misAmigos);
 
 
+function agregarAmigo() {
+let nombresDeAmigos = document.getElementById('amigo').value;
+
+}
