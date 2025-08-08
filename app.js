@@ -2,8 +2,8 @@
 
 
 
-let ListaDeAmigos = [];
+let misAmigos = [];
 
-let MisAmigos = ["Ana", "Juan", "Luz", "Aelyn", "Teresa"];
+console.log (misAmigos);
 
-console.log (MisAmigos);
+
